@@ -8,7 +8,7 @@
 }
 
 #nav-list a{
-  color: black;
+  color: #951C49;
   text-align: center
 }
 
@@ -21,7 +21,7 @@
 }
 
 .card{
-  background-color:#228B22;
+  background-color: #00BFFF;
   color: white;
   padding: 10px;
   margin-bottom: 20px;
